@@ -50,6 +50,5 @@ Design a cart experience that:
 - Please complete and submit within **11:59 PM, 26th June** of starting the task.
 
 We’re excited to see how you think and design. Remember, this isn’t about flashy UI. it’s about **real-world, user-centered design** that solves a specific business problem.
-If you have any questions, feel free to reach out.
-
-## Good Luck!
+If you have any questions, feel free to reach out. Make sure to share your design with this email bellow
+**enaematechnologies@gmail.com**
